@@ -6,3 +6,5 @@
 Tehtävärepositorio: https://github.com/mikknikk/ohtu-tehtavat
 
 Viikon 1 tehtävänannot löytyvät [täältä](https://ohjelmistotuotanto-hy-avoin.github.io/tehtavat1).
+
+Tämä repositorio sisältää myös viikon 2 pylint-tehtävän.
